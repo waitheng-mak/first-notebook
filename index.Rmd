@@ -9,5 +9,5 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
-* This is my webpage
-* My name is **Wai Theng**
+* This is my webpage created using R Markdown.
+* My name is **Wai Theng**. I am a Sanger PhD student learning the reproducibility in R course
